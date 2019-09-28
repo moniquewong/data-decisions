@@ -1,8 +1,9 @@
 ---
 layout: post
-title: Is predicting better predicting fairly? - Describing Discriminatory Bias in Machine Learning
+title: Is predicting better predicting fairly? 
 
 ---
+### Describing Discriminatory Bias in Machine Learning
 Author: Monique Wong
 
 Most of us have an idea of what discriminatory bias means. It’s when characteristics such as gender, age, race, religious beliefs or sexual orientation changes the way we make decisions about a person.
@@ -57,11 +58,11 @@ As data scientists and decision makers, we have a responsibility to use technolo
 
 ## Sources of inspiration:
 
-https://www.propublica.org/article/how-we-analyzed-the-compas-recidivism-algorithm
-https://towardsdatascience.com/is-your-machine-learning-model-biased-94f9ee176b67
-https://pair-code.github.io/what-if-tool/ai-fairness.html
-https://www.technologyreview.com/s/612876/this-is-how-ai-bias-really-happensand-why-its-so-hard-to-fix/
-https://medium.com/@ericakochi/how-to-prevent-discriminatory-outcomes-in-machine-learning-3380ffb4f8b3
-https://towardsdatascience.com/machine-learning-and-discrimination-2ed1a8b01038
-https://towardsdatascience.com/understanding-and-reducing-bias-in-machine-learning-6565e23900ac
-https://www.theguardian.com/technology/2017/apr/13/ai-programs-exhibit-racist-and-sexist-biases-research-reveals
+- https://www.propublica.org/article/how-we-analyzed-the-compas-recidivism-algorithm
+- https://towardsdatascience.com/is-your-machine-learning-model-biased-94f9ee176b67
+- https://pair-code.github.io/what-if-tool/ai-fairness.html
+- https://www.technologyreview.com/s/612876/this-is-how-ai-bias-really-happensand-why-its-so-hard-to-fix/
+- https://medium.com/@ericakochi/how-to-prevent-discriminatory-outcomes-in-machine-learning-3380ffb4f8b3
+- https://towardsdatascience.com/machine-learning-and-discrimination-2ed1a8b01038
+- https://towardsdatascience.com/understanding-and-reducing-bias-in-machine-learning-6565e23900ac
+- https://www.theguardian.com/technology/2017/apr/13/ai-programs-exhibit-racist-and-sexist-biases-research-reveals
