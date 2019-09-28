@@ -25,10 +25,10 @@ The mayor of Zuon believes that safe communities are the key to a higher quality
 
 The data scientists work away and come up with a solution. The solution takes into account a dizzying number of factors from the age of the convicted person’s first crime to the criminal history of the person’s parents to make the prediction. This tool is then used to help Zuon judges make decisions like length of jail time.
 
-Image
+<img src="../images/zuon-2.png" width="300" height="300">
 Over the years, more and more Orange Circles end up in prison for ever longer periods of time. The system is objective (it’s based on math and data!) and is well-intended (who doesn’t want more criminals off the streets?). What went wrong?
 
-Image
+<img src="../images/zuon-3.png" width="300" height="300">
 It turns out that discrimination doesn’t have to be ill-intended. No one in Zuon was discriminating against shape or colour. With machine learning, we accidentally created a predictive model that is discriminatory. The model resulted in very different outcomes for Purple Rectangles compared to Orange Circles.
 
 ## How did this happen?
