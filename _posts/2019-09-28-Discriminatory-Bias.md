@@ -11,7 +11,7 @@ Machine learning may seem like a daunting concept. For now, let’s think of it 
 
 At first blush, the former seems like the domain of lawyers and social justice activists while the latter belongs in the world of statistics and computer science. The way these two concepts come together is not obvious. I assure you though, that the relationship between these concepts has important implications on whether organizations should embrace machine learning.
 
-A fictional example
+## A fictional example
 
 Let’s imagine that on a fictional town of Zuon, there are two dominant population groups: Purple Rectangles and Orange Circles.
 
@@ -19,7 +19,8 @@ Purple Rectangles live in relative comfort. They live in beautiful homes nested 
 
 Orange Circles live on the outskirts of Zuon. These neighborhoods are not as friendly. Orange Circle children grow up afraid, untrusting and are unsure of how they fit into society. Some Orange Circle children learn to steal to provide for food and shelter. Often, they don’t finish high school. Many fall into a career of crime.
 
-Image
+<img src="./images/zuon-1.png" width="300" height="300">
+
 The mayor of Zuon believes that safe communities are the key to a higher quality of life. He begins to police the outskirts of Zuon more heavily. Children are arrested for stealing to deter early criminal tendencies. Not seeing the results, he hires a team of data scientists to predict the likelihood that a convicted criminal will re-offend. This way, he thought, he can do a better job of keeping potentially violent lawbreakers off the streets.
 
 The data scientists work away and come up with a solution. The solution takes into account a dizzying number of factors from the age of the convicted person’s first crime to the criminal history of the person’s parents to make the prediction. This tool is then used to help Zuon judges make decisions like length of jail time.
@@ -30,7 +31,7 @@ Over the years, more and more Orange Circles end up in prison for ever longer pe
 Image
 It turns out that discrimination doesn’t have to be ill-intended. No one in Zuon was discriminating against shape or colour. With machine learning, we accidentally created a predictive model that is discriminatory. The model resulted in very different outcomes for Purple Rectangles compared to Orange Circles.
 
-How did this happen?
+## How did this happen?
 
 There are several causes for discriminatory bias in machine learning algorithms.
 
@@ -42,7 +43,7 @@ There are several causes for discriminatory bias in machine learning algorithms.
 
 In the real world, these behaviours can lead to the unequal treatment of people based on gender, age, race, religion or sexual orientation based on the outcomes of a self-learning algorithm.
 
-Real-life examples
+## Real-life examples
 
 The story of Zuon is not as fictional as it seems. A similar predictive model being used across several states in the U.S. COMPAS stands for Correctional Offender Management Profiling for Alternative Sanctions and is an algorithm used to assess a criminal defendant’s likelihood of becoming a recidivist, someone who will re-offend.
 
@@ -50,11 +51,11 @@ ProPublica, a non-profit investigative journalist, analyzed COMPAS for discrimin
 
 COMPAS is not the only discriminatory application of machine learning. Examples of discriminatory bias have been discovered with Amazon’s recruiting system, Facebook’s advertisements and in mortgage lending.
 
-Last thoughts
+## Last thoughts
 
 As data scientists and decision makers, we have a responsibility to use technology wisely. While machine learning can certainly improve performance and quality of life, we need to be aware of and plan for its flaws. Christian Lou Lange, a Nobel Peace Prize winner once said: “Technology is a useful servant but a dangerous master.” Let us be thoughtful and use machine learning to move society forward instead of further entrench society’s inequities.
 
-Sources of inspiration:
+## Sources of inspiration:
 
 https://www.propublica.org/article/how-we-analyzed-the-compas-recidivism-algorithm
 https://towardsdatascience.com/is-your-machine-learning-model-biased-94f9ee176b67
