@@ -19,7 +19,7 @@ Purple Rectangles live in relative comfort. They live in beautiful homes nested 
 
 Orange Circles live on the outskirts of Zuon. These neighborhoods are not as friendly. Orange Circle children grow up afraid, untrusting and are unsure of how they fit into society. Some Orange Circle children learn to steal to provide for food and shelter. Often, they don’t finish high school. Many fall into a career of crime.
 
-<img src="./images/zuon-1.png" width="300" height="300">
+<img src="../images/zuon-1.png" width="300" height="300">
 
 The mayor of Zuon believes that safe communities are the key to a higher quality of life. He begins to police the outskirts of Zuon more heavily. Children are arrested for stealing to deter early criminal tendencies. Not seeing the results, he hires a team of data scientists to predict the likelihood that a convicted criminal will re-offend. This way, he thought, he can do a better job of keeping potentially violent lawbreakers off the streets.
 
